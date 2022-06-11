@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CompanyViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
